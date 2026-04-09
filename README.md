@@ -140,5 +140,4 @@ Minimax explores the **complete game tree** — every possible sequence of moves
 ## Author
 
 **Momen Ashraf**  
-Computer Science — Fayoum University, 2024  
 [linkedin.com/in/momen-ashraf-](https://linkedin.com/in/momen-ashraf-)
